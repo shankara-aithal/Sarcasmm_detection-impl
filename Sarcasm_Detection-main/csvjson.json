@@ -1,0 +1,7002 @@
+[
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "I am so excited about losing my keys.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Sure, because I totally needed a flat tire.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "Absolutely love paying bills. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a flat tire."
+        ],
+        "utterance": "Absolutely love working on weekends. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yes, this is the best day ever. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I love waiting in line. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely love cleaning the house. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I really enjoyed boring lecture.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Absolutely agree! it went well.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Oh, for sure! it was all planned.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Absolutely love waiting in line. Can't get enough!",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another long meeting."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, great! Another boring lecture."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Oh, great! Another boring lecture.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I am so excited about a flat tire.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, great! Another long meeting.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love paying bills. Can't get enough!"
+        ],
+        "utterance": "Oh, great! Another Monday.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! this is really helpful.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed early morning.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "I really enjoyed traffic jam.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, this is the best day ever. Just what I always wanted."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love cleaning the house. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed a canceled flight."
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Absolutely agree! it was productive.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I am so excited about spilling coffee.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Sure, because I totally needed a canceled flight.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Sure, because I totally needed more work to do."
+        ],
+        "utterance": "Sure, because I totally needed spilling coffee.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! nothing could go wrong."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "Yeah, life is so easy. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "Oh, great! Another early morning.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "I really enjoyed Monday.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, life is so easy. Just what I always wanted."
+        ],
+        "utterance": "I am so excited about a canceled flight.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "I really enjoyed long meeting.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Yeah, everything is perfect. Just what I always wanted."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed losing my keys."
+        ],
+        "utterance": "Yeah, everything is perfect. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! this is exactly what I hoped for."
+        ],
+        "utterance": "I love working on weekends. It makes me happy.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, for sure! nothing could go wrong.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love waiting in line. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed losing my keys.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Absolutely love cleaning the house. Can't get enough!"
+        ],
+        "utterance": "Sure, because I totally needed more work to do.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another early morning."
+        ],
+        "utterance": "I am so excited about more work to do.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Absolutely love working on weekends. Can't get enough!"
+        ],
+        "utterance": "Yes, everything is perfect. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "Oh, for sure! this is exactly what I hoped for.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another traffic jam."
+        ],
+        "utterance": "Oh, great! Another traffic jam.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, great! Another Monday."
+        ],
+        "utterance": "Yeah, this is the best day ever. Just what I always wanted.",
+        "sarcasm": 1
+    },
+    {
+        "context": [
+            "Oh, for sure! it was all planned."
+        ],
+        "utterance": "Yes, life is so easy. It's truly great.",
+        "sarcasm": 0
+    },
+    {
+        "context": [
+            "Sure, because I totally needed spilling coffee."
+        ],
+        "utterance": "I love paying bills. It makes me happy.",
+        "sarcasm": 0
+    }
+]
