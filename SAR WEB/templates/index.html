@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarcasm Detection</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, 'Times New Roman', Times, serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+            background-color: #000; /* Dark background for contrast */
+            color: #fff;
+            box-sizing: border-box;
+            position: relative;
+        }
+
+        @keyframes gradientBG {
+            0% { background-position: 0% 20%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .background-animation {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg,#ff00ff, #ff6600, #0000ff, #ff0000, #ffff00, #ff1493, #1e90ff, #ff8c00, #8a2be2, #d2691e, #4b0082);
+            background-size: 300% 300%;
+            animation: gradientBG 10s linear infinite;
+            z-index: -1; /* Behind the main content */
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.1); /* Transparent background */
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+            padding: 40px 30px;
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+            backdrop-filter: blur(10px); /* Blur effect */
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            opacity: 0.9;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            color: #ffffff;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 1rem;
+            outline: none;
+            background: rgba(255, 255, 255, 0.6);
+            transition: border-color 0.3s;
+        }
+        input:focus {
+            border-color: #00BFFF;
+        }
+
+        button {
+            padding: 12px 30px;
+            font-size: 1rem;
+            color: #fff;
+            background-color: #00BFFF;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+            margin-bottom: 20px;
+        }
+        button:hover {
+            background-color: #0056b3;
+            transform: translateY(-2px);
+        }
+
+        .result {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #333;
+            background-color: rgba(248, 249, 250, 0.8);
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 30px 20px;
+            }
+            h2 {
+                font-size: 2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 20px;
+            }
+            h2 {
+                font-size: 1.5rem;
+            }
+            input, button {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="background-animation"></div>
+    <div class="container">
+        <h2>Sarcasm Detection</h2>
+        <form id="inputForm" method="post" action="/predict" style="width: 100%;">
+            <input type="text" name="user_input" id="userInput" placeholder="Enter a sentence..." required>
+            <button type="submit">Check</button>
+        </form>
+        <div id="result" class="result"></div>
+    </div>
+
+    <script>
+        document.getElementById('inputForm').onsubmit = async function (event) {
+            event.preventDefault();
+            const userInput = document.getElementById('userInput').value;
+            const formData = new FormData();
+            formData.append('user_input', userInput);
+            
+            const response = await fetch('/predict', {
+                method: 'POST',
+                body: formData
+            });
+            
+            if (response.ok) {
+                const data = await response.json();
+                document.getElementById('result').innerText = data.result;
+            } else {
+                document.getElementById('result').innerText = "Error occurred. Please try again later.";
+            }
+        };
+    </script>
+</body>
+</html>
